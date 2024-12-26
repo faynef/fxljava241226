@@ -1,0 +1,14 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.3
+3 silly config:load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/xilong/src/web/.npmrc
+5 silly config:load:file:/home/xilong/.npmrc
+6 silly config:load:file:/usr/etc/npmrc
+7 verbose title npm run build
+8 verbose argv "run" "build" "--if-present"
+9 verbose logfile logs-max:10 dir:/home/xilong/.npm/_logs/2024-12-26T05_50_18_286Z-
+10 verbose logfile /home/xilong/.npm/_logs/2024-12-26T05_50_18_286Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose exit 0
+13 info ok
