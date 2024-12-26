@@ -8,3 +8,5 @@ azd up
 azd pipeline config --provider github
 git config --global user.name "Xilong Feng(MSFT)"
 git config --global user.email "v-xilongfeng@microsoft.com"
+azd pipeline config --provider github
+git remote remove origin
